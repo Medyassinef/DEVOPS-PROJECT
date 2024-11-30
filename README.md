@@ -1,2 +1,2 @@
 # DEVOPS-PROJECT
-This repositry is for learning devops
+Ceci est un projet pour apprendre les bases du Devops avec Git et Docker.
